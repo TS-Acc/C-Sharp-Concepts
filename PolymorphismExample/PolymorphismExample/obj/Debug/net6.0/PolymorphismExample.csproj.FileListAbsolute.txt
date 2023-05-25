@@ -1,0 +1,15 @@
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.exe
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.deps.json
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.runtimeconfig.json
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.dll
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.pdb
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.csproj.AssemblyReference.cache
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.AssemblyInfoInputs.cache
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.AssemblyInfo.cs
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.csproj.CoreCompileInputs.cache
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.dll
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\refint\PolymorphismExample.dll
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.pdb
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.genruntimeconfig.cache
+C:\repos\C# Study\PolymorphismExample\PolymorphismExample\obj\Debug\net6.0\ref\PolymorphismExample.dll

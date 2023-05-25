@@ -41,9 +41,6 @@
 
             handler("Hello World!");
 
-            int invocationCount = d1.GetInvocationList().GetLength(0);
-            Console.WriteLine(invocationCount);
-
 
             // Using the method "MethodWithCallback" with the instantiated delegate "handler"
 
