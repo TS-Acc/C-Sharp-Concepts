@@ -1,0 +1,15 @@
+C:\repos\C# Study\LearningDelegates\LearningDelegates\bin\Debug\net6.0\LearningDelegates.exe
+C:\repos\C# Study\LearningDelegates\LearningDelegates\bin\Debug\net6.0\LearningDelegates.deps.json
+C:\repos\C# Study\LearningDelegates\LearningDelegates\bin\Debug\net6.0\LearningDelegates.runtimeconfig.json
+C:\repos\C# Study\LearningDelegates\LearningDelegates\bin\Debug\net6.0\LearningDelegates.dll
+C:\repos\C# Study\LearningDelegates\LearningDelegates\bin\Debug\net6.0\LearningDelegates.pdb
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.csproj.AssemblyReference.cache
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.AssemblyInfoInputs.cache
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.AssemblyInfo.cs
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.csproj.CoreCompileInputs.cache
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.dll
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\refint\LearningDelegates.dll
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.pdb
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\LearningDelegates.genruntimeconfig.cache
+C:\repos\C# Study\LearningDelegates\LearningDelegates\obj\Debug\net6.0\ref\LearningDelegates.dll
